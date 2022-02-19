@@ -1,0 +1,4850 @@
+[TB_StateManager]
+State Count:48
+  [TB_State]
+  Name:"L0-C0-007.0;-004.0"
+  Frame:334
+  Node Count:14
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.667116,-9.42888
+      AttrName:"orientation"=-79.7017
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.243909
+      AttrName:"orientation0"=123.192
+      AttrName:"offset"=-1.61603,-9.39873
+      AttrName:"Length1"=0.302941
+      AttrName:"orientation1"=74.8015
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_3"
+    Attr Count:5
+      AttrName:"Length0"=0.230284
+      AttrName:"orientation0"=74.8015
+      AttrName:"offset"=-1.14255,-9.17526
+      AttrName:"Length1"=0.17019
+      AttrName:"orientation1"=0.575196
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.266166
+      AttrName:"orientation0"=-86.7242
+      AttrName:"offset"=-0.630453,-10.2694
+      AttrName:"Length1"=0.241708
+      AttrName:"orientation1"=-89.3533
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.155013
+      AttrName:"orientation0"=-89.3533
+      AttrName:"offset"=-1.72506,-11.4416
+      AttrName:"Length1"=0.345668
+      AttrName:"orientation1"=123.192
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_4"
+    Attr Count:5
+      AttrName:"Length0"=0.184376
+      AttrName:"orientation0"=0.575196
+      AttrName:"offset"=-0.678671,-9.39169
+      AttrName:"Length1"=0.192802
+      AttrName:"orientation1"=-65.2564
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.469358,-10.6375
+      AttrName:"orientation"=-179.826
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=1.02676
+      AttrName:"orientation0"=-121.803
+      AttrName:"offset"=-2.43077,-10.8496
+      AttrName:"Length1"=2.26109
+      AttrName:"orientation1"=-257.923
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.308224
+      AttrName:"orientation0"=-141.814
+      AttrName:"offset"=-1.54592,-12.8925
+      AttrName:"Length1"=0.603028
+      AttrName:"orientation1"=3.17361
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.659515
+      AttrName:"orientation0"=3.17361
+      AttrName:"offset"=-0.47051,-10.6383
+      AttrName:"Length1"=0.345794
+      AttrName:"orientation1"=96.0185
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+
+  [TB_State]
+  Name:"L0-C1-005.0;-004.0"
+  Frame:342
+  Node Count:14
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.670287,-9.41731
+      AttrName:"orientation"=-79.7017
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.200048
+      AttrName:"orientation0"=97.2446
+      AttrName:"offset"=-1.65875,-9.44455
+      AttrName:"Length1"=0.328492
+      AttrName:"orientation1"=59.3174
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_3"
+    Attr Count:5
+      AttrName:"Length0"=0.230284
+      AttrName:"orientation0"=59.3174
+      AttrName:"offset"=-1.14255,-9.17526
+      AttrName:"Length1"=0.17019
+      AttrName:"orientation1"=0.575196
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.265897
+      AttrName:"orientation0"=-89.1711
+      AttrName:"offset"=-0.710347,-10.2919
+      AttrName:"Length1"=0.147872
+      AttrName:"orientation1"=-100.495
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.124562
+      AttrName:"orientation0"=-100.495
+      AttrName:"offset"=-2.14538,-11.1163
+      AttrName:"Length1"=0.250827
+      AttrName:"orientation1"=139.066
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_4"
+    Attr Count:5
+      AttrName:"Length0"=0.184376
+      AttrName:"orientation0"=0.575196
+      AttrName:"offset"=-0.678671,-9.39169
+      AttrName:"Length1"=0.162922
+      AttrName:"orientation1"=-46.7002
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.469358,-10.6375
+      AttrName:"orientation"=-179.826
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=1.02676
+      AttrName:"orientation0"=-121.803
+      AttrName:"offset"=-2.43077,-10.8496
+      AttrName:"Length1"=2.26109
+      AttrName:"orientation1"=-257.923
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.308224
+      AttrName:"orientation0"=-141.814
+      AttrName:"offset"=-1.54592,-12.8925
+      AttrName:"Length1"=0.603028
+      AttrName:"orientation1"=3.17361
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.659515
+      AttrName:"orientation0"=3.17361
+      AttrName:"offset"=-0.47051,-10.6383
+      AttrName:"Length1"=0.345794
+      AttrName:"orientation1"=96.0185
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+
+  [TB_State]
+  Name:"L0-C2-003.0;-004.0"
+  Frame:350
+  Node Count:14
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.670287,-9.41731
+      AttrName:"orientation"=-79.7017
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.200048
+      AttrName:"orientation0"=97.2446
+      AttrName:"offset"=-1.65875,-9.44455
+      AttrName:"Length1"=0.351433
+      AttrName:"orientation1"=49.1373
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_3"
+    Attr Count:5
+      AttrName:"Length0"=0.230284
+      AttrName:"orientation0"=49.1373
+      AttrName:"offset"=-1.14255,-9.17526
+      AttrName:"Length1"=0.17019
+      AttrName:"orientation1"=0.575196
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.265897
+      AttrName:"orientation0"=-89.1711
+      AttrName:"offset"=-0.710347,-10.2919
+      AttrName:"Length1"=0.147872
+      AttrName:"orientation1"=-100.495
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.124562
+      AttrName:"orientation0"=-100.495
+      AttrName:"offset"=-2.36408,-11.0431
+      AttrName:"Length1"=0.250827
+      AttrName:"orientation1"=139.066
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_4"
+    Attr Count:5
+      AttrName:"Length0"=0.184376
+      AttrName:"orientation0"=0.575196
+      AttrName:"offset"=-0.678671,-9.39169
+      AttrName:"Length1"=0.162922
+      AttrName:"orientation1"=-46.7002
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.469358,-10.6375
+      AttrName:"orientation"=-179.826
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=1.02676
+      AttrName:"orientation0"=-121.803
+      AttrName:"offset"=-2.43077,-10.8496
+      AttrName:"Length1"=2.26109
+      AttrName:"orientation1"=-257.923
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.308224
+      AttrName:"orientation0"=-141.814
+      AttrName:"offset"=-1.54592,-12.8925
+      AttrName:"Length1"=0.603028
+      AttrName:"orientation1"=3.17361
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.659515
+      AttrName:"orientation0"=3.17361
+      AttrName:"offset"=-0.47051,-10.6383
+      AttrName:"Length1"=0.345794
+      AttrName:"orientation1"=96.0185
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+
+  [TB_State]
+  Name:"L0-C3-001.0;-004.0"
+  Frame:358
+  Node Count:14
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.673619,-9.41748
+      AttrName:"orientation"=-79.7017
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.30615
+      AttrName:"orientation0"=123.771
+      AttrName:"offset"=-1.65875,-9.44455
+      AttrName:"Length1"=0.439899
+      AttrName:"orientation1"=73.9099
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_3"
+    Attr Count:5
+      AttrName:"Length0"=0.230284
+      AttrName:"orientation0"=73.9099
+      AttrName:"offset"=-1.14255,-9.17526
+      AttrName:"Length1"=0.17019
+      AttrName:"orientation1"=0.575196
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.2869
+      AttrName:"orientation0"=-88.2362
+      AttrName:"offset"=-0.668893,-10.2959
+      AttrName:"Length1"=0.110711
+      AttrName:"orientation1"=-107.723
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.395415
+      AttrName:"orientation0"=-107.723
+      AttrName:"offset"=-1.69969,-11.108
+      AttrName:"Length1"=0.241683
+      AttrName:"orientation1"=133.485
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_4"
+    Attr Count:5
+      AttrName:"Length0"=0.184376
+      AttrName:"orientation0"=0.575196
+      AttrName:"offset"=-0.678671,-9.39169
+      AttrName:"Length1"=0.162922
+      AttrName:"orientation1"=-46.7002
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.569834,-10.3547
+      AttrName:"orientation"=-179.826
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.375751
+      AttrName:"orientation0"=-263.487
+      AttrName:"offset"=-1.78333,-11.1965
+      AttrName:"Length1"=1.66609
+      AttrName:"orientation1"=-89.2119
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.46665
+      AttrName:"orientation0"=-85.2929
+      AttrName:"offset"=-1.16474,-11.6087
+      AttrName:"Length1"=0.234274
+      AttrName:"orientation1"=17.9645
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.659515
+      AttrName:"orientation0"=17.9645
+      AttrName:"offset"=-0.47051,-10.6383
+      AttrName:"Length1"=0.345794
+      AttrName:"orientation1"=96.0185
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+
+  [TB_State]
+  Name:"L0-C4+001.0;-004.0"
+  Frame:366
+  Node Count:14
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.666058,-9.43273
+      AttrName:"orientation"=-79.7017
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.260799
+      AttrName:"orientation0"=78.6346
+      AttrName:"offset"=-1.65875,-9.44455
+      AttrName:"Length1"=0.160371
+      AttrName:"orientation1"=46.8408
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_3"
+    Attr Count:5
+      AttrName:"Length0"=0.230284
+      AttrName:"orientation0"=46.8408
+      AttrName:"offset"=-1.14255,-9.17526
+      AttrName:"Length1"=0.17019
+      AttrName:"orientation1"=0.575196
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.225204
+      AttrName:"orientation0"=-78.6437
+      AttrName:"offset"=-0.725567,-11.0234
+      AttrName:"Length1"=0.265437
+      AttrName:"orientation1"=-96.1993
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.332013
+      AttrName:"orientation0"=-96.1993
+      AttrName:"offset"=-1.90371,-9.9833
+      AttrName:"Length1"=0.38093
+      AttrName:"orientation1"=78.6346
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_4"
+    Attr Count:5
+      AttrName:"Length0"=0.184376
+      AttrName:"orientation0"=0.575196
+      AttrName:"offset"=-0.678671,-9.39169
+      AttrName:"Length1"=0.202761
+      AttrName:"orientation1"=-71.4418
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.555501,-11.2495
+      AttrName:"orientation"=-179.826
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.858089
+      AttrName:"orientation0"=-253.563
+      AttrName:"offset"=-2.14614,-10.0387
+      AttrName:"Length1"=0.962631
+      AttrName:"orientation1"=-150.838
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.46665
+      AttrName:"orientation0"=-85.2929
+      AttrName:"offset"=-1.46257,-11.592
+      AttrName:"Length1"=0.603028
+      AttrName:"orientation1"=-32.3928
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.517668
+      AttrName:"orientation0"=-32.3928
+      AttrName:"offset"=-0.47051,-10.6383
+      AttrName:"Length1"=0.345794
+      AttrName:"orientation1"=96.0185
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+
+  [TB_State]
+  Name:"L0-C5+003.0;-004.0"
+  Frame:374
+  Node Count:14
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.666058,-9.43273
+      AttrName:"orientation"=-79.7017
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.290607
+      AttrName:"orientation0"=89.8416
+      AttrName:"offset"=-1.65633,-9.45774
+      AttrName:"Length1"=0.243448
+      AttrName:"orientation1"=77.0389
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_3"
+    Attr Count:5
+      AttrName:"Length0"=0.234585
+      AttrName:"orientation0"=77.0389
+      AttrName:"offset"=-1.14255,-9.17526
+      AttrName:"Length1"=0.17019
+      AttrName:"orientation1"=0.575196
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.406438
+      AttrName:"orientation0"=-77.3083
+      AttrName:"offset"=-0.354821,-10.8738
+      AttrName:"Length1"=0.265437
+      AttrName:"orientation1"=-115.625
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.293359
+      AttrName:"orientation0"=-115.625
+      AttrName:"offset"=-1.76155,-10.2413
+      AttrName:"Length1"=0.303286
+      AttrName:"orientation1"=89.8416
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_4"
+    Attr Count:5
+      AttrName:"Length0"=0.184376
+      AttrName:"orientation0"=0.575196
+      AttrName:"offset"=-0.678671,-9.39169
+      AttrName:"Length1"=0.202761
+      AttrName:"orientation1"=-71.4418
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.250822,-10.9881
+      AttrName:"orientation"=-179.826
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.473877
+      AttrName:"orientation0"=-240.776
+      AttrName:"offset"=-1.81628,-10.227
+      AttrName:"Length1"=0.702605
+      AttrName:"orientation1"=-156.51
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.46665
+      AttrName:"orientation0"=-85.2929
+      AttrName:"offset"=-1.49164,-11.4289
+      AttrName:"Length1"=0.603028
+      AttrName:"orientation1"=3.17361
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.659515
+      AttrName:"orientation0"=3.17361
+      AttrName:"offset"=-0.47051,-10.6383
+      AttrName:"Length1"=0.345794
+      AttrName:"orientation1"=96.0185
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+
+  [TB_State]
+  Name:"L0-C6+005.0;-004.0"
+  Frame:382
+  Node Count:14
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.664546,-9.45334
+      AttrName:"orientation"=-79.7017
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.294525
+      AttrName:"orientation0"=89.8779
+      AttrName:"offset"=-1.65585,-9.46038
+      AttrName:"Length1"=0.282999
+      AttrName:"orientation1"=74.6883
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_3"
+    Attr Count:5
+      AttrName:"Length0"=0.233725
+      AttrName:"orientation0"=74.6883
+      AttrName:"offset"=-1.14255,-9.17526
+      AttrName:"Length1"=0.17019
+      AttrName:"orientation1"=0.575196
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.332797
+      AttrName:"orientation0"=-76.6241
+      AttrName:"offset"=-0.318345,-10.8639
+      AttrName:"Length1"=0.265437
+      AttrName:"orientation1"=-108.839
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.548614
+      AttrName:"orientation0"=-108.839
+      AttrName:"offset"=-1.75602,-10.117
+      AttrName:"Length1"=0.12302
+      AttrName:"orientation1"=89.8779
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_4"
+    Attr Count:5
+      AttrName:"Length0"=0.184376
+      AttrName:"orientation0"=0.575196
+      AttrName:"offset"=-0.678671,-9.39169
+      AttrName:"Length1"=0.202761
+      AttrName:"orientation1"=-71.4418
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.225533,-11.2309
+      AttrName:"orientation"=-179.826
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.513096
+      AttrName:"orientation0"=-179.741
+      AttrName:"offset"=-2.5931,-10.6626
+      AttrName:"Length1"=1.09659
+      AttrName:"orientation1"=-221.433
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.46665
+      AttrName:"orientation0"=-85.2929
+      AttrName:"offset"=-1.38167,-12.0546
+      AttrName:"Length1"=0.603028
+      AttrName:"orientation1"=3.17361
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.659515
+      AttrName:"orientation0"=3.17361
+      AttrName:"offset"=-0.47051,-10.6383
+      AttrName:"Length1"=0.345794
+      AttrName:"orientation1"=96.0185
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+
+  [TB_State]
+  Name:"L0-C7+007.0;-004.0"
+  Frame:390
+  Node Count:14
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.691583,-9.44827
+      AttrName:"orientation"=-79.7017
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.298443
+      AttrName:"orientation0"=91.8086
+      AttrName:"offset"=-1.65536,-9.46302
+      AttrName:"Length1"=0.31771
+      AttrName:"orientation1"=74.8922
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_3"
+    Attr Count:5
+      AttrName:"Length0"=0.232865
+      AttrName:"orientation0"=74.8922
+      AttrName:"offset"=-1.14255,-9.17526
+      AttrName:"Length1"=0.17019
+      AttrName:"orientation1"=0.575196
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.360219
+      AttrName:"orientation0"=-81.7018
+      AttrName:"offset"=-0.62817,-11.1279
+      AttrName:"Length1"=0.378492
+      AttrName:"orientation1"=-131.294
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.219561
+      AttrName:"orientation0"=-131.294
+      AttrName:"offset"=-1.78432,-10.2577
+      AttrName:"Length1"=0.48754
+      AttrName:"orientation1"=91.8086
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_4"
+    Attr Count:5
+      AttrName:"Length0"=0.184376
+      AttrName:"orientation0"=0.575196
+      AttrName:"offset"=-0.678671,-9.39169
+      AttrName:"Length1"=0.202761
+      AttrName:"orientation1"=-71.4418
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.496235,-11.2489
+      AttrName:"orientation"=-179.826
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.464773
+      AttrName:"orientation0"=-148.611
+      AttrName:"offset"=-2.5931,-10.6626
+      AttrName:"Length1"=1.17455
+      AttrName:"orientation1"=-225.587
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.46665
+      AttrName:"orientation0"=-85.2929
+      AttrName:"offset"=-1.72612,-11.8425
+      AttrName:"Length1"=0.603028
+      AttrName:"orientation1"=3.17361
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.659515
+      AttrName:"orientation0"=3.17361
+      AttrName:"offset"=-0.47051,-10.6383
+      AttrName:"Length1"=0.345794
+      AttrName:"orientation1"=96.0185
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+
+  [TB_State]
+  Name:"L1-C0-007.0;-001.0"
+  Frame:332
+  Node Count:14
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.667116,-9.42888
+      AttrName:"orientation"=-79.7017
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.244275
+      AttrName:"orientation0"=102.417
+      AttrName:"offset"=-1.64209,-9.44247
+      AttrName:"Length1"=0.227238
+      AttrName:"orientation1"=57.2284
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_3"
+    Attr Count:5
+      AttrName:"Length0"=0.230284
+      AttrName:"orientation0"=57.2284
+      AttrName:"offset"=-1.14255,-9.17526
+      AttrName:"Length1"=0.17019
+      AttrName:"orientation1"=0.575196
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.266166
+      AttrName:"orientation0"=-86.7242
+      AttrName:"offset"=-0.630453,-10.2694
+      AttrName:"Length1"=0.241708
+      AttrName:"orientation1"=-89.3533
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.155013
+      AttrName:"orientation0"=-89.3533
+      AttrName:"offset"=-2.08449,-10.6808
+      AttrName:"Length1"=0.345668
+      AttrName:"orientation1"=107.262
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_4"
+    Attr Count:5
+      AttrName:"Length0"=0.184376
+      AttrName:"orientation0"=0.575196
+      AttrName:"offset"=-0.678671,-9.39169
+      AttrName:"Length1"=0.192802
+      AttrName:"orientation1"=-65.2564
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.469358,-10.6375
+      AttrName:"orientation"=-179.826
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.684318
+      AttrName:"orientation0"=-160.429
+      AttrName:"offset"=-2.35161,-10.647
+      AttrName:"Length1"=1.21785
+      AttrName:"orientation1"=-217.119
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.308224
+      AttrName:"orientation0"=-141.814
+      AttrName:"offset"=-1.88009,-11.8572
+      AttrName:"Length1"=0.603028
+      AttrName:"orientation1"=3.17361
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.659515
+      AttrName:"orientation0"=3.17361
+      AttrName:"offset"=-0.47051,-10.6383
+      AttrName:"Length1"=0.345794
+      AttrName:"orientation1"=96.0185
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+
+  [TB_State]
+  Name:"L1-C1-005.0;-001.0"
+  Frame:340
+  Node Count:14
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.670287,-9.41731
+      AttrName:"orientation"=-79.7017
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.206042
+      AttrName:"orientation0"=86.4601
+      AttrName:"offset"=-1.65875,-9.44455
+      AttrName:"Length1"=0.246667
+      AttrName:"orientation1"=39.7934
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_3"
+    Attr Count:5
+      AttrName:"Length0"=0.230284
+      AttrName:"orientation0"=39.7934
+      AttrName:"offset"=-1.14255,-9.17526
+      AttrName:"Length1"=0.17019
+      AttrName:"orientation1"=0.575196
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.265897
+      AttrName:"orientation0"=-89.1711
+      AttrName:"offset"=-0.678864,-10.2758
+      AttrName:"Length1"=0.162971
+      AttrName:"orientation1"=-94.6405
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.112152
+      AttrName:"orientation0"=-94.6405
+      AttrName:"offset"=-2.31983,-10.5719
+      AttrName:"Length1"=0.251679
+      AttrName:"orientation1"=119.777
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_4"
+    Attr Count:5
+      AttrName:"Length0"=0.184376
+      AttrName:"orientation0"=0.575196
+      AttrName:"offset"=-0.678671,-9.39169
+      AttrName:"Length1"=0.162922
+      AttrName:"orientation1"=-46.7002
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.469358,-10.6375
+      AttrName:"orientation"=-179.826
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.684318
+      AttrName:"orientation0"=-160.429
+      AttrName:"offset"=-2.53899,-10.725
+      AttrName:"Length1"=1.29053
+      AttrName:"orientation1"=-205.493
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.413841
+      AttrName:"orientation0"=-104.133
+      AttrName:"offset"=-1.50973,-11.9167
+      AttrName:"Length1"=0.603028
+      AttrName:"orientation1"=3.17361
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.659515
+      AttrName:"orientation0"=3.17361
+      AttrName:"offset"=-0.47051,-10.6383
+      AttrName:"Length1"=0.345794
+      AttrName:"orientation1"=96.0185
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+
+  [TB_State]
+  Name:"L1-C2-003.0;-001.0"
+  Frame:348
+  Node Count:14
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.672508,-9.41742
+      AttrName:"orientation"=-79.7017
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.206042
+      AttrName:"orientation0"=86.4601
+      AttrName:"offset"=-1.65875,-9.44455
+      AttrName:"Length1"=0.254313
+      AttrName:"orientation1"=36.4
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_3"
+    Attr Count:5
+      AttrName:"Length0"=0.230284
+      AttrName:"orientation0"=36.4
+      AttrName:"offset"=-1.14255,-9.17526
+      AttrName:"Length1"=0.17019
+      AttrName:"orientation1"=0.575196
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.271456
+      AttrName:"orientation0"=-86.9793
+      AttrName:"offset"=-0.679147,-10.3007
+      AttrName:"Length1"=0.163687
+      AttrName:"orientation1"=-101.87
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.112152
+      AttrName:"orientation0"=-101.87
+      AttrName:"offset"=-2.4822,-10.5412
+      AttrName:"Length1"=0.202693
+      AttrName:"orientation1"=121.373
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_4"
+    Attr Count:5
+      AttrName:"Length0"=0.184376
+      AttrName:"orientation0"=0.575196
+      AttrName:"offset"=-0.678671,-9.39169
+      AttrName:"Length1"=0.162922
+      AttrName:"orientation1"=-46.7002
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.469358,-10.6375
+      AttrName:"orientation"=-179.826
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.684318
+      AttrName:"orientation0"=-160.429
+      AttrName:"offset"=-2.53899,-10.725
+      AttrName:"Length1"=1.29053
+      AttrName:"orientation1"=-205.493
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.413841
+      AttrName:"orientation0"=-104.133
+      AttrName:"offset"=-1.50973,-11.9167
+      AttrName:"Length1"=0.603028
+      AttrName:"orientation1"=3.17361
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.659515
+      AttrName:"orientation0"=3.17361
+      AttrName:"offset"=-0.47051,-10.6383
+      AttrName:"Length1"=0.345794
+      AttrName:"orientation1"=96.0185
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+
+  [TB_State]
+  Name:"L1-C3-001.0;-001.0"
+  Frame:356
+  Node Count:14
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.673619,-9.41748
+      AttrName:"orientation"=-79.7017
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.270977
+      AttrName:"orientation0"=96.3992
+      AttrName:"offset"=-1.65875,-9.44455
+      AttrName:"Length1"=0.316705
+      AttrName:"orientation1"=54.0921
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_3"
+    Attr Count:5
+      AttrName:"Length0"=0.230284
+      AttrName:"orientation0"=54.0921
+      AttrName:"offset"=-1.14255,-9.17526
+      AttrName:"Length1"=0.17019
+      AttrName:"orientation1"=0.575196
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.2869
+      AttrName:"orientation0"=-88.2362
+      AttrName:"offset"=-0.668893,-10.2959
+      AttrName:"Length1"=0.110711
+      AttrName:"orientation1"=-106.651
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.228547
+      AttrName:"orientation0"=-106.651
+      AttrName:"offset"=-1.99237,-10.4126
+      AttrName:"Length1"=0.241683
+      AttrName:"orientation1"=133.485
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_4"
+    Attr Count:5
+      AttrName:"Length0"=0.184376
+      AttrName:"orientation0"=0.575196
+      AttrName:"offset"=-0.678671,-9.39169
+      AttrName:"Length1"=0.162922
+      AttrName:"orientation1"=-46.7002
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.489395,-10.4552
+      AttrName:"orientation"=-179.826
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.279028
+      AttrName:"orientation0"=-249.305
+      AttrName:"offset"=-2.32998,-10.5503
+      AttrName:"Length1"=1.02046
+      AttrName:"orientation1"=-156.762
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.46665
+      AttrName:"orientation0"=-85.2929
+      AttrName:"offset"=-1.40991,-11.4738
+      AttrName:"Length1"=0.51084
+      AttrName:"orientation1"=6.87133
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.659515
+      AttrName:"orientation0"=6.87133
+      AttrName:"offset"=-0.47051,-10.6383
+      AttrName:"Length1"=0.345794
+      AttrName:"orientation1"=96.0185
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+
+  [TB_State]
+  Name:"L1-C4+001.0;-001.0"
+  Frame:364
+  Node Count:14
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.666058,-9.43273
+      AttrName:"orientation"=-79.7017
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.292874
+      AttrName:"orientation0"=81.3169
+      AttrName:"offset"=-1.65875,-9.44455
+      AttrName:"Length1"=0.20022
+      AttrName:"orientation1"=63.8229
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_3"
+    Attr Count:5
+      AttrName:"Length0"=0.230284
+      AttrName:"orientation0"=63.8229
+      AttrName:"offset"=-1.14255,-9.17526
+      AttrName:"Length1"=0.17019
+      AttrName:"orientation1"=0.575196
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.225204
+      AttrName:"orientation0"=-78.6437
+      AttrName:"offset"=-0.552399,-10.5597
+      AttrName:"Length1"=0.265437
+      AttrName:"orientation1"=-96.1993
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.332013
+      AttrName:"orientation0"=-96.1993
+      AttrName:"offset"=-1.83134,-10.1048
+      AttrName:"Length1"=0.305322
+      AttrName:"orientation1"=81.3169
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_4"
+    Attr Count:5
+      AttrName:"Length0"=0.184376
+      AttrName:"orientation0"=0.575196
+      AttrName:"offset"=-0.678671,-9.39169
+      AttrName:"Length1"=0.202761
+      AttrName:"orientation1"=-71.4418
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.400378,-10.7379
+      AttrName:"orientation"=-179.826
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.685592
+      AttrName:"orientation0"=-216.652
+      AttrName:"offset"=-2.33728,-10.2172
+      AttrName:"Length1"=0.883943
+      AttrName:"orientation1"=-165.058
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.46665
+      AttrName:"orientation0"=-85.2929
+      AttrName:"offset"=-1.4771,-11.5104
+      AttrName:"Length1"=0.603028
+      AttrName:"orientation1"=-14.6096
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.588592
+      AttrName:"orientation0"=-14.6096
+      AttrName:"offset"=-0.47051,-10.6383
+      AttrName:"Length1"=0.345794
+      AttrName:"orientation1"=96.0185
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+
+  [TB_State]
+  Name:"L1-C5+003.0;-001.0"
+  Frame:372
+  Node Count:14
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.666058,-9.43273
+      AttrName:"orientation"=-79.7017
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.290607
+      AttrName:"orientation0"=89.8416
+      AttrName:"offset"=-1.65633,-9.45774
+      AttrName:"Length1"=0.235194
+      AttrName:"orientation1"=83.3773
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_3"
+    Attr Count:5
+      AttrName:"Length0"=0.234585
+      AttrName:"orientation0"=83.3773
+      AttrName:"offset"=-1.14255,-9.17526
+      AttrName:"Length1"=0.17019
+      AttrName:"orientation1"=0.575196
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.339507
+      AttrName:"orientation0"=-59.093
+      AttrName:"offset"=-0.227677,-10.4511
+      AttrName:"Length1"=0.265437
+      AttrName:"orientation1"=-104.004
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.272525
+      AttrName:"orientation0"=-104.004
+      AttrName:"offset"=-1.70573,-10.2354
+      AttrName:"Length1"=0.303286
+      AttrName:"orientation1"=89.8416
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_4"
+    Attr Count:5
+      AttrName:"Length0"=0.184376
+      AttrName:"orientation0"=0.575196
+      AttrName:"offset"=-0.678671,-9.39169
+      AttrName:"Length1"=0.202761
+      AttrName:"orientation1"=-71.4418
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.14072,-10.5349
+      AttrName:"orientation"=-179.826
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.478377
+      AttrName:"orientation0"=-187.544
+      AttrName:"offset"=-2.15155,-10.327
+      AttrName:"Length1"=0.707401
+      AttrName:"orientation1"=-173.904
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.46665
+      AttrName:"orientation0"=-85.2929
+      AttrName:"offset"=-1.49164,-11.4289
+      AttrName:"Length1"=0.603028
+      AttrName:"orientation1"=3.17361
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.659515
+      AttrName:"orientation0"=3.17361
+      AttrName:"offset"=-0.47051,-10.6383
+      AttrName:"Length1"=0.345794
+      AttrName:"orientation1"=96.0185
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+
+  [TB_State]
+  Name:"L1-C6+005.0;-001.0"
+  Frame:380
+  Node Count:14
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.664546,-9.45334
+      AttrName:"orientation"=-79.7017
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.294525
+      AttrName:"orientation0"=89.8779
+      AttrName:"offset"=-1.65585,-9.46038
+      AttrName:"Length1"=0.273234
+      AttrName:"orientation1"=79.9515
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_3"
+    Attr Count:5
+      AttrName:"Length0"=0.233725
+      AttrName:"orientation0"=79.9515
+      AttrName:"offset"=-1.14255,-9.17526
+      AttrName:"Length1"=0.17019
+      AttrName:"orientation1"=0.575196
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.287654
+      AttrName:"orientation0"=-45.8488
+      AttrName:"offset"=-0.0546485,-10.3388
+      AttrName:"Length1"=0.265437
+      AttrName:"orientation1"=-97.3596
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.339955
+      AttrName:"orientation0"=-97.3596
+      AttrName:"offset"=-1.71493,-10.2472
+      AttrName:"Length1"=0.12302
+      AttrName:"orientation1"=89.8779
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_4"
+    Attr Count:5
+      AttrName:"Length0"=0.184376
+      AttrName:"orientation0"=0.575196
+      AttrName:"offset"=-0.678671,-9.39169
+      AttrName:"Length1"=0.202761
+      AttrName:"orientation1"=-71.4418
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.388083,-10.8353
+      AttrName:"orientation"=-179.826
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.513096
+      AttrName:"orientation0"=-179.741
+      AttrName:"offset"=-2.5931,-10.6626
+      AttrName:"Length1"=0.902366
+      AttrName:"orientation1"=-193.33
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.46665
+      AttrName:"orientation0"=-85.2929
+      AttrName:"offset"=-1.45498,-11.6374
+      AttrName:"Length1"=0.603028
+      AttrName:"orientation1"=3.17361
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.659515
+      AttrName:"orientation0"=3.17361
+      AttrName:"offset"=-0.47051,-10.6383
+      AttrName:"Length1"=0.345794
+      AttrName:"orientation1"=96.0185
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+
+  [TB_State]
+  Name:"L1-C7+007.0;-001.0"
+  Frame:388
+  Node Count:14
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.674567,-9.43791
+      AttrName:"orientation"=-79.7017
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.298443
+      AttrName:"orientation0"=94.5733
+      AttrName:"offset"=-1.65536,-9.46302
+      AttrName:"Length1"=0.306909
+      AttrName:"orientation1"=79.49
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_3"
+    Attr Count:5
+      AttrName:"Length0"=0.232865
+      AttrName:"orientation0"=79.49
+      AttrName:"offset"=-1.14255,-9.17526
+      AttrName:"Length1"=0.17019
+      AttrName:"orientation1"=0.575196
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.300105
+      AttrName:"orientation0"=-66.4939
+      AttrName:"offset"=-0.361912,-10.577
+      AttrName:"Length1"=0.303122
+      AttrName:"orientation1"=-104.336
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.219561
+      AttrName:"orientation0"=-104.336
+      AttrName:"offset"=-1.71034,-10.2943
+      AttrName:"Length1"=0.384322
+      AttrName:"orientation1"=94.5733
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_4"
+    Attr Count:5
+      AttrName:"Length0"=0.184376
+      AttrName:"orientation0"=0.575196
+      AttrName:"offset"=-0.678671,-9.39169
+      AttrName:"Length1"=0.202761
+      AttrName:"orientation1"=-71.4418
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.478317,-10.8413
+      AttrName:"orientation"=-179.826
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.496988
+      AttrName:"orientation0"=-169.365
+      AttrName:"offset"=-2.5931,-10.6626
+      AttrName:"Length1"=0.928353
+      AttrName:"orientation1"=-194.714
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.46665
+      AttrName:"orientation0"=-85.2929
+      AttrName:"offset"=-1.5698,-11.5668
+      AttrName:"Length1"=0.603028
+      AttrName:"orientation1"=3.17361
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.659515
+      AttrName:"orientation0"=3.17361
+      AttrName:"offset"=-0.47051,-10.6383
+      AttrName:"Length1"=0.345794
+      AttrName:"orientation1"=96.0185
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+
+  [TB_State]
+  Name:"-007.0;-000.9"
+  Frame:327
+  Node Count:14
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.667116,-9.42888
+      AttrName:"orientation"=-79.7017
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.244458
+      AttrName:"orientation0"=92.0299
+      AttrName:"offset"=-1.65512,-9.46434
+      AttrName:"Length1"=0.189387
+      AttrName:"orientation1"=48.4419
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_3"
+    Attr Count:5
+      AttrName:"Length0"=0.230284
+      AttrName:"orientation0"=48.4419
+      AttrName:"offset"=-1.14255,-9.17526
+      AttrName:"Length1"=0.17019
+      AttrName:"orientation1"=0.575196
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.266166
+      AttrName:"orientation0"=-86.7242
+      AttrName:"offset"=-0.630453,-10.2694
+      AttrName:"Length1"=0.241708
+      AttrName:"orientation1"=-89.3533
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.155013
+      AttrName:"orientation0"=-89.3533
+      AttrName:"offset"=-2.26421,-10.3003
+      AttrName:"Length1"=0.345668
+      AttrName:"orientation1"=99.2962
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_4"
+    Attr Count:5
+      AttrName:"Length0"=0.184376
+      AttrName:"orientation0"=0.575196
+      AttrName:"offset"=-0.678671,-9.39169
+      AttrName:"Length1"=0.192802
+      AttrName:"orientation1"=-65.2564
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.469358,-10.6375
+      AttrName:"orientation"=-179.826
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.513096
+      AttrName:"orientation0"=-179.741
+      AttrName:"offset"=-2.31204,-10.5457
+      AttrName:"Length1"=0.696228
+      AttrName:"orientation1"=-196.717
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.308224
+      AttrName:"orientation0"=-141.814
+      AttrName:"offset"=-2.04718,-11.3395
+      AttrName:"Length1"=0.603028
+      AttrName:"orientation1"=3.17361
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.659515
+      AttrName:"orientation0"=3.17361
+      AttrName:"offset"=-0.47051,-10.6383
+      AttrName:"Length1"=0.345794
+      AttrName:"orientation1"=96.0185
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+
+  [TB_State]
+  Name:"-005.0;-000.9"
+  Frame:335
+  Node Count:14
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.670287,-9.41731
+      AttrName:"orientation"=-79.7017
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.209039
+      AttrName:"orientation0"=81.0678
+      AttrName:"offset"=-1.65875,-9.44455
+      AttrName:"Length1"=0.205754
+      AttrName:"orientation1"=30.0313
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_3"
+    Attr Count:5
+      AttrName:"Length0"=0.230284
+      AttrName:"orientation0"=30.0313
+      AttrName:"offset"=-1.14255,-9.17526
+      AttrName:"Length1"=0.17019
+      AttrName:"orientation1"=0.575196
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.265897
+      AttrName:"orientation0"=-89.1711
+      AttrName:"offset"=-0.663123,-10.2677
+      AttrName:"Length1"=0.170521
+      AttrName:"orientation1"=-91.7131
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.105947
+      AttrName:"orientation0"=-91.7131
+      AttrName:"offset"=-2.40705,-10.2998
+      AttrName:"Length1"=0.252105
+      AttrName:"orientation1"=110.133
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_4"
+    Attr Count:5
+      AttrName:"Length0"=0.184376
+      AttrName:"orientation0"=0.575196
+      AttrName:"offset"=-0.678671,-9.39169
+      AttrName:"Length1"=0.162922
+      AttrName:"orientation1"=-46.7002
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.469358,-10.6375
+      AttrName:"orientation"=-179.826
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.513096
+      AttrName:"orientation0"=-179.741
+      AttrName:"offset"=-2.5931,-10.6626
+      AttrName:"Length1"=0.805255
+      AttrName:"orientation1"=-179.278
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.46665
+      AttrName:"orientation0"=-85.2929
+      AttrName:"offset"=-1.49164,-11.4289
+      AttrName:"Length1"=0.603028
+      AttrName:"orientation1"=3.17361
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.659515
+      AttrName:"orientation0"=3.17361
+      AttrName:"offset"=-0.47051,-10.6383
+      AttrName:"Length1"=0.345794
+      AttrName:"orientation1"=96.0185
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+
+  [TB_State]
+  Name:"-003.0;-000.9"
+  Frame:343
+  Node Count:14
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.673619,-9.41748
+      AttrName:"orientation"=-79.7017
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.209039
+      AttrName:"orientation0"=81.0678
+      AttrName:"offset"=-1.65875,-9.44455
+      AttrName:"Length1"=0.205754
+      AttrName:"orientation1"=30.0313
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_3"
+    Attr Count:5
+      AttrName:"Length0"=0.230284
+      AttrName:"orientation0"=30.0313
+      AttrName:"offset"=-1.14255,-9.17526
+      AttrName:"Length1"=0.17019
+      AttrName:"orientation1"=0.575196
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.274235
+      AttrName:"orientation0"=-85.8835
+      AttrName:"offset"=-0.663547,-10.3051
+      AttrName:"Length1"=0.171594
+      AttrName:"orientation1"=-102.557
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.105947
+      AttrName:"orientation0"=-102.557
+      AttrName:"offset"=-2.54126,-10.2903
+      AttrName:"Length1"=0.178626
+      AttrName:"orientation1"=112.526
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_4"
+    Attr Count:5
+      AttrName:"Length0"=0.184376
+      AttrName:"orientation0"=0.575196
+      AttrName:"offset"=-0.678671,-9.39169
+      AttrName:"Length1"=0.162922
+      AttrName:"orientation1"=-46.7002
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.469358,-10.6375
+      AttrName:"orientation"=-179.826
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.513096
+      AttrName:"orientation0"=-179.741
+      AttrName:"offset"=-2.5931,-10.6626
+      AttrName:"Length1"=0.805255
+      AttrName:"orientation1"=-179.278
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.46665
+      AttrName:"orientation0"=-85.2929
+      AttrName:"offset"=-1.49164,-11.4289
+      AttrName:"Length1"=0.603028
+      AttrName:"orientation1"=3.17361
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.659515
+      AttrName:"orientation0"=3.17361
+      AttrName:"offset"=-0.47051,-10.6383
+      AttrName:"Length1"=0.345794
+      AttrName:"orientation1"=96.0185
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+
+  [TB_State]
+  Name:"-001.0;-000.9"
+  Frame:351
+  Node Count:14
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.673619,-9.41748
+      AttrName:"orientation"=-79.7017
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.259253
+      AttrName:"orientation0"=87.2751
+      AttrName:"offset"=-1.65875,-9.44455
+      AttrName:"Length1"=0.27564
+      AttrName:"orientation1"=47.4862
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_3"
+    Attr Count:5
+      AttrName:"Length0"=0.230284
+      AttrName:"orientation0"=47.4862
+      AttrName:"offset"=-1.14255,-9.17526
+      AttrName:"Length1"=0.17019
+      AttrName:"orientation1"=0.575196
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.2869
+      AttrName:"orientation0"=-88.2362
+      AttrName:"offset"=-0.668893,-10.2959
+      AttrName:"Length1"=0.110711
+      AttrName:"orientation1"=-106.293
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.172925
+      AttrName:"orientation0"=-106.293
+      AttrName:"offset"=-2.08993,-10.1808
+      AttrName:"Length1"=0.241683
+      AttrName:"orientation1"=133.485
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_4"
+    Attr Count:5
+      AttrName:"Length0"=0.184376
+      AttrName:"orientation0"=0.575196
+      AttrName:"offset"=-0.678671,-9.39169
+      AttrName:"Length1"=0.162922
+      AttrName:"orientation1"=-46.7002
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.469358,-10.6375
+      AttrName:"orientation"=-179.826
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.513096
+      AttrName:"orientation0"=-179.741
+      AttrName:"offset"=-2.5931,-10.6626
+      AttrName:"Length1"=0.805255
+      AttrName:"orientation1"=-179.278
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.46665
+      AttrName:"orientation0"=-85.2929
+      AttrName:"offset"=-1.49164,-11.4289
+      AttrName:"Length1"=0.603028
+      AttrName:"orientation1"=3.17361
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.659515
+      AttrName:"orientation0"=3.17361
+      AttrName:"offset"=-0.47051,-10.6383
+      AttrName:"Length1"=0.345794
+      AttrName:"orientation1"=96.0185
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+
+  [TB_State]
+  Name:"+001.0;-000.9"
+  Frame:359
+  Node Count:14
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.666058,-9.43273
+      AttrName:"orientation"=-79.7017
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.324949
+      AttrName:"orientation0"=83.9992
+      AttrName:"offset"=-1.65875,-9.44455
+      AttrName:"Length1"=0.240069
+      AttrName:"orientation1"=80.805
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_3"
+    Attr Count:5
+      AttrName:"Length0"=0.230284
+      AttrName:"orientation0"=80.805
+      AttrName:"offset"=-1.14255,-9.17526
+      AttrName:"Length1"=0.17019
+      AttrName:"orientation1"=0.575196
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.225204
+      AttrName:"orientation0"=-78.6437
+      AttrName:"offset"=-0.37923,-10.096
+      AttrName:"Length1"=0.265437
+      AttrName:"orientation1"=-96.1993
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.332013
+      AttrName:"orientation0"=-96.1993
+      AttrName:"offset"=-1.75896,-10.2262
+      AttrName:"Length1"=0.229715
+      AttrName:"orientation1"=83.9992
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_4"
+    Attr Count:5
+      AttrName:"Length0"=0.184376
+      AttrName:"orientation0"=0.575196
+      AttrName:"offset"=-0.678671,-9.39169
+      AttrName:"Length1"=0.202761
+      AttrName:"orientation1"=-71.4418
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.469358,-10.6375
+      AttrName:"orientation"=-179.826
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.513096
+      AttrName:"orientation0"=-179.741
+      AttrName:"offset"=-2.5931,-10.6626
+      AttrName:"Length1"=0.805255
+      AttrName:"orientation1"=-179.278
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.46665
+      AttrName:"orientation0"=-85.2929
+      AttrName:"offset"=-1.49164,-11.4289
+      AttrName:"Length1"=0.603028
+      AttrName:"orientation1"=3.17361
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.659515
+      AttrName:"orientation0"=3.17361
+      AttrName:"offset"=-0.47051,-10.6383
+      AttrName:"Length1"=0.345794
+      AttrName:"orientation1"=96.0185
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+
+  [TB_State]
+  Name:"+003.0;-000.9"
+  Frame:367
+  Node Count:14
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.666058,-9.43273
+      AttrName:"orientation"=-79.7017
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.290607
+      AttrName:"orientation0"=89.8416
+      AttrName:"offset"=-1.65633,-9.45774
+      AttrName:"Length1"=0.235194
+      AttrName:"orientation1"=83.3773
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_3"
+    Attr Count:5
+      AttrName:"Length0"=0.234585
+      AttrName:"orientation0"=83.3773
+      AttrName:"offset"=-1.14255,-9.17526
+      AttrName:"Length1"=0.17019
+      AttrName:"orientation1"=0.575196
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.272577
+      AttrName:"orientation0"=-40.8777
+      AttrName:"offset"=-0.100534,-10.0285
+      AttrName:"Length1"=0.265437
+      AttrName:"orientation1"=-92.383
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.25169
+      AttrName:"orientation0"=-92.383
+      AttrName:"offset"=-1.70573,-10.2354
+      AttrName:"Length1"=0.303286
+      AttrName:"orientation1"=89.8416
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_4"
+    Attr Count:5
+      AttrName:"Length0"=0.184376
+      AttrName:"orientation0"=0.575196
+      AttrName:"offset"=-0.678671,-9.39169
+      AttrName:"Length1"=0.202761
+      AttrName:"orientation1"=-71.4418
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.469358,-10.6375
+      AttrName:"orientation"=-179.826
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.513096
+      AttrName:"orientation0"=-179.741
+      AttrName:"offset"=-2.5931,-10.6626
+      AttrName:"Length1"=0.805255
+      AttrName:"orientation1"=-179.278
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.46665
+      AttrName:"orientation0"=-85.2929
+      AttrName:"offset"=-1.49164,-11.4289
+      AttrName:"Length1"=0.603028
+      AttrName:"orientation1"=3.17361
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.659515
+      AttrName:"orientation0"=3.17361
+      AttrName:"offset"=-0.47051,-10.6383
+      AttrName:"Length1"=0.345794
+      AttrName:"orientation1"=96.0185
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+
+  [TB_State]
+  Name:"+005.0;-000.9"
+  Frame:375
+  Node Count:14
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.664546,-9.45334
+      AttrName:"orientation"=-79.7017
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.294525
+      AttrName:"orientation0"=89.8779
+      AttrName:"offset"=-1.65585,-9.46038
+      AttrName:"Length1"=0.268351
+      AttrName:"orientation1"=82.5831
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_3"
+    Attr Count:5
+      AttrName:"Length0"=0.233725
+      AttrName:"orientation0"=82.5831
+      AttrName:"offset"=-1.14255,-9.17526
+      AttrName:"Length1"=0.17019
+      AttrName:"orientation1"=0.575196
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.273512
+      AttrName:"orientation0"=-40.5598
+      AttrName:"offset"=0.00357816,-10.3212
+      AttrName:"Length1"=0.265437
+      AttrName:"orientation1"=-91.6197
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.235626
+      AttrName:"orientation0"=-91.6197
+      AttrName:"offset"=-1.69438,-10.3123
+      AttrName:"Length1"=0.12302
+      AttrName:"orientation1"=89.8779
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_4"
+    Attr Count:5
+      AttrName:"Length0"=0.184376
+      AttrName:"orientation0"=0.575196
+      AttrName:"offset"=-0.678671,-9.39169
+      AttrName:"Length1"=0.202761
+      AttrName:"orientation1"=-71.4418
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.469358,-10.6375
+      AttrName:"orientation"=-179.826
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.513096
+      AttrName:"orientation0"=-179.741
+      AttrName:"offset"=-2.5931,-10.6626
+      AttrName:"Length1"=0.805255
+      AttrName:"orientation1"=-179.278
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.46665
+      AttrName:"orientation0"=-85.2929
+      AttrName:"offset"=-1.49164,-11.4289
+      AttrName:"Length1"=0.603028
+      AttrName:"orientation1"=3.17361
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.659515
+      AttrName:"orientation0"=3.17361
+      AttrName:"offset"=-0.47051,-10.6383
+      AttrName:"Length1"=0.345794
+      AttrName:"orientation1"=96.0185
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+
+  [TB_State]
+  Name:"+007.0;-000.9"
+  Frame:383
+  Node Count:14
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.666058,-9.43273
+      AttrName:"orientation"=-79.7017
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.298443
+      AttrName:"orientation0"=95.9557
+      AttrName:"offset"=-1.65536,-9.46302
+      AttrName:"Length1"=0.301509
+      AttrName:"orientation1"=81.7889
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_3"
+    Attr Count:5
+      AttrName:"Length0"=0.232865
+      AttrName:"orientation0"=81.7889
+      AttrName:"offset"=-1.14255,-9.17526
+      AttrName:"Length1"=0.17019
+      AttrName:"orientation1"=0.575196
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.270049
+      AttrName:"orientation0"=-58.89
+      AttrName:"offset"=-0.228783,-10.3015
+      AttrName:"Length1"=0.265437
+      AttrName:"orientation1"=-90.8565
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.219561
+      AttrName:"orientation0"=-90.8565
+      AttrName:"offset"=-1.67335,-10.3126
+      AttrName:"Length1"=0.332714
+      AttrName:"orientation1"=95.9557
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_4"
+    Attr Count:5
+      AttrName:"Length0"=0.184376
+      AttrName:"orientation0"=0.575196
+      AttrName:"offset"=-0.678671,-9.39169
+      AttrName:"Length1"=0.202761
+      AttrName:"orientation1"=-71.4418
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.469358,-10.6375
+      AttrName:"orientation"=-179.826
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.513096
+      AttrName:"orientation0"=-179.741
+      AttrName:"offset"=-2.5931,-10.6626
+      AttrName:"Length1"=0.805255
+      AttrName:"orientation1"=-179.278
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.46665
+      AttrName:"orientation0"=-85.2929
+      AttrName:"offset"=-1.49164,-11.4289
+      AttrName:"Length1"=0.603028
+      AttrName:"orientation1"=3.17361
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.659515
+      AttrName:"orientation0"=3.17361
+      AttrName:"offset"=-0.47051,-10.6383
+      AttrName:"Length1"=0.345794
+      AttrName:"orientation1"=96.0185
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+
+  [TB_State]
+  Name:"L2-C0-007.0;+000.9"
+  Frame:327
+  Node Count:14
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.667116,-9.42888
+      AttrName:"orientation"=-79.7017
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.244458
+      AttrName:"orientation0"=92.0299
+      AttrName:"offset"=-1.65512,-9.46434
+      AttrName:"Length1"=0.189387
+      AttrName:"orientation1"=48.4419
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_3"
+    Attr Count:5
+      AttrName:"Length0"=0.230284
+      AttrName:"orientation0"=48.4419
+      AttrName:"offset"=-1.14255,-9.17526
+      AttrName:"Length1"=0.17019
+      AttrName:"orientation1"=0.575196
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.266166
+      AttrName:"orientation0"=-86.7242
+      AttrName:"offset"=-0.630453,-10.2694
+      AttrName:"Length1"=0.241708
+      AttrName:"orientation1"=-89.3533
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.155013
+      AttrName:"orientation0"=-89.3533
+      AttrName:"offset"=-2.26421,-10.3003
+      AttrName:"Length1"=0.345668
+      AttrName:"orientation1"=99.2962
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_4"
+    Attr Count:5
+      AttrName:"Length0"=0.184376
+      AttrName:"orientation0"=0.575196
+      AttrName:"offset"=-0.678671,-9.39169
+      AttrName:"Length1"=0.192802
+      AttrName:"orientation1"=-65.2564
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.469358,-10.6375
+      AttrName:"orientation"=-179.826
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.513096
+      AttrName:"orientation0"=-179.741
+      AttrName:"offset"=-2.31204,-10.5457
+      AttrName:"Length1"=0.696228
+      AttrName:"orientation1"=-196.717
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.308224
+      AttrName:"orientation0"=-141.814
+      AttrName:"offset"=-2.04718,-11.3395
+      AttrName:"Length1"=0.603028
+      AttrName:"orientation1"=3.17361
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.659515
+      AttrName:"orientation0"=3.17361
+      AttrName:"offset"=-0.47051,-10.6383
+      AttrName:"Length1"=0.345794
+      AttrName:"orientation1"=96.0185
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+
+  [TB_State]
+  Name:"L2-C1-005.0;+000.9"
+  Frame:335
+  Node Count:14
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.670287,-9.41731
+      AttrName:"orientation"=-79.7017
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.209039
+      AttrName:"orientation0"=81.0678
+      AttrName:"offset"=-1.65875,-9.44455
+      AttrName:"Length1"=0.205754
+      AttrName:"orientation1"=30.0313
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_3"
+    Attr Count:5
+      AttrName:"Length0"=0.230284
+      AttrName:"orientation0"=30.0313
+      AttrName:"offset"=-1.14255,-9.17526
+      AttrName:"Length1"=0.17019
+      AttrName:"orientation1"=0.575196
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.265897
+      AttrName:"orientation0"=-89.1711
+      AttrName:"offset"=-0.663123,-10.2677
+      AttrName:"Length1"=0.170521
+      AttrName:"orientation1"=-91.7131
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.105947
+      AttrName:"orientation0"=-91.7131
+      AttrName:"offset"=-2.40705,-10.2998
+      AttrName:"Length1"=0.252105
+      AttrName:"orientation1"=110.133
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_4"
+    Attr Count:5
+      AttrName:"Length0"=0.184376
+      AttrName:"orientation0"=0.575196
+      AttrName:"offset"=-0.678671,-9.39169
+      AttrName:"Length1"=0.162922
+      AttrName:"orientation1"=-46.7002
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.469358,-10.6375
+      AttrName:"orientation"=-179.826
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.513096
+      AttrName:"orientation0"=-179.741
+      AttrName:"offset"=-2.5931,-10.6626
+      AttrName:"Length1"=0.805255
+      AttrName:"orientation1"=-179.278
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.46665
+      AttrName:"orientation0"=-85.2929
+      AttrName:"offset"=-1.49164,-11.4289
+      AttrName:"Length1"=0.603028
+      AttrName:"orientation1"=3.17361
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.659515
+      AttrName:"orientation0"=3.17361
+      AttrName:"offset"=-0.47051,-10.6383
+      AttrName:"Length1"=0.345794
+      AttrName:"orientation1"=96.0185
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+
+  [TB_State]
+  Name:"L2-C2-003.0;+000.9"
+  Frame:343
+  Node Count:14
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.673619,-9.41748
+      AttrName:"orientation"=-79.7017
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.209039
+      AttrName:"orientation0"=81.0678
+      AttrName:"offset"=-1.65875,-9.44455
+      AttrName:"Length1"=0.205754
+      AttrName:"orientation1"=30.0313
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_3"
+    Attr Count:5
+      AttrName:"Length0"=0.230284
+      AttrName:"orientation0"=30.0313
+      AttrName:"offset"=-1.14255,-9.17526
+      AttrName:"Length1"=0.17019
+      AttrName:"orientation1"=0.575196
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.274235
+      AttrName:"orientation0"=-85.8835
+      AttrName:"offset"=-0.663547,-10.3051
+      AttrName:"Length1"=0.171594
+      AttrName:"orientation1"=-102.557
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.105947
+      AttrName:"orientation0"=-102.557
+      AttrName:"offset"=-2.54126,-10.2903
+      AttrName:"Length1"=0.178626
+      AttrName:"orientation1"=112.526
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_4"
+    Attr Count:5
+      AttrName:"Length0"=0.184376
+      AttrName:"orientation0"=0.575196
+      AttrName:"offset"=-0.678671,-9.39169
+      AttrName:"Length1"=0.162922
+      AttrName:"orientation1"=-46.7002
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.469358,-10.6375
+      AttrName:"orientation"=-179.826
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.513096
+      AttrName:"orientation0"=-179.741
+      AttrName:"offset"=-2.5931,-10.6626
+      AttrName:"Length1"=0.805255
+      AttrName:"orientation1"=-179.278
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.46665
+      AttrName:"orientation0"=-85.2929
+      AttrName:"offset"=-1.49164,-11.4289
+      AttrName:"Length1"=0.603028
+      AttrName:"orientation1"=3.17361
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.659515
+      AttrName:"orientation0"=3.17361
+      AttrName:"offset"=-0.47051,-10.6383
+      AttrName:"Length1"=0.345794
+      AttrName:"orientation1"=96.0185
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+
+  [TB_State]
+  Name:"L2-C3-001.0;+000.9"
+  Frame:351
+  Node Count:14
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.673619,-9.41748
+      AttrName:"orientation"=-79.7017
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.259253
+      AttrName:"orientation0"=87.2751
+      AttrName:"offset"=-1.65875,-9.44455
+      AttrName:"Length1"=0.27564
+      AttrName:"orientation1"=47.4862
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_3"
+    Attr Count:5
+      AttrName:"Length0"=0.230284
+      AttrName:"orientation0"=47.4862
+      AttrName:"offset"=-1.14255,-9.17526
+      AttrName:"Length1"=0.17019
+      AttrName:"orientation1"=0.575196
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.2869
+      AttrName:"orientation0"=-88.2362
+      AttrName:"offset"=-0.668893,-10.2959
+      AttrName:"Length1"=0.110711
+      AttrName:"orientation1"=-106.293
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.172925
+      AttrName:"orientation0"=-106.293
+      AttrName:"offset"=-2.08993,-10.1808
+      AttrName:"Length1"=0.241683
+      AttrName:"orientation1"=133.485
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_4"
+    Attr Count:5
+      AttrName:"Length0"=0.184376
+      AttrName:"orientation0"=0.575196
+      AttrName:"offset"=-0.678671,-9.39169
+      AttrName:"Length1"=0.162922
+      AttrName:"orientation1"=-46.7002
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.469358,-10.6375
+      AttrName:"orientation"=-179.826
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.513096
+      AttrName:"orientation0"=-179.741
+      AttrName:"offset"=-2.5931,-10.6626
+      AttrName:"Length1"=0.805255
+      AttrName:"orientation1"=-179.278
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.46665
+      AttrName:"orientation0"=-85.2929
+      AttrName:"offset"=-1.49164,-11.4289
+      AttrName:"Length1"=0.603028
+      AttrName:"orientation1"=3.17361
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.659515
+      AttrName:"orientation0"=3.17361
+      AttrName:"offset"=-0.47051,-10.6383
+      AttrName:"Length1"=0.345794
+      AttrName:"orientation1"=96.0185
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+
+  [TB_State]
+  Name:"L2-C4+001.0;+000.9"
+  Frame:359
+  Node Count:14
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.666058,-9.43273
+      AttrName:"orientation"=-79.7017
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.324949
+      AttrName:"orientation0"=83.9992
+      AttrName:"offset"=-1.65875,-9.44455
+      AttrName:"Length1"=0.240069
+      AttrName:"orientation1"=80.805
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_3"
+    Attr Count:5
+      AttrName:"Length0"=0.230284
+      AttrName:"orientation0"=80.805
+      AttrName:"offset"=-1.14255,-9.17526
+      AttrName:"Length1"=0.17019
+      AttrName:"orientation1"=0.575196
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.225204
+      AttrName:"orientation0"=-78.6437
+      AttrName:"offset"=-0.37923,-10.096
+      AttrName:"Length1"=0.265437
+      AttrName:"orientation1"=-96.1993
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.332013
+      AttrName:"orientation0"=-96.1993
+      AttrName:"offset"=-1.75896,-10.2262
+      AttrName:"Length1"=0.229715
+      AttrName:"orientation1"=83.9992
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_4"
+    Attr Count:5
+      AttrName:"Length0"=0.184376
+      AttrName:"orientation0"=0.575196
+      AttrName:"offset"=-0.678671,-9.39169
+      AttrName:"Length1"=0.202761
+      AttrName:"orientation1"=-71.4418
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.469358,-10.6375
+      AttrName:"orientation"=-179.826
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.513096
+      AttrName:"orientation0"=-179.741
+      AttrName:"offset"=-2.5931,-10.6626
+      AttrName:"Length1"=0.805255
+      AttrName:"orientation1"=-179.278
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.46665
+      AttrName:"orientation0"=-85.2929
+      AttrName:"offset"=-1.49164,-11.4289
+      AttrName:"Length1"=0.603028
+      AttrName:"orientation1"=3.17361
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.659515
+      AttrName:"orientation0"=3.17361
+      AttrName:"offset"=-0.47051,-10.6383
+      AttrName:"Length1"=0.345794
+      AttrName:"orientation1"=96.0185
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+
+  [TB_State]
+  Name:"L2-C5+003.0;+000.9"
+  Frame:367
+  Node Count:14
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.666058,-9.43273
+      AttrName:"orientation"=-79.7017
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.290607
+      AttrName:"orientation0"=89.8416
+      AttrName:"offset"=-1.65633,-9.45774
+      AttrName:"Length1"=0.235194
+      AttrName:"orientation1"=83.3773
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_3"
+    Attr Count:5
+      AttrName:"Length0"=0.234585
+      AttrName:"orientation0"=83.3773
+      AttrName:"offset"=-1.14255,-9.17526
+      AttrName:"Length1"=0.17019
+      AttrName:"orientation1"=0.575196
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.272577
+      AttrName:"orientation0"=-40.8777
+      AttrName:"offset"=-0.100534,-10.0285
+      AttrName:"Length1"=0.265437
+      AttrName:"orientation1"=-92.383
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.25169
+      AttrName:"orientation0"=-92.383
+      AttrName:"offset"=-1.70573,-10.2354
+      AttrName:"Length1"=0.303286
+      AttrName:"orientation1"=89.8416
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_4"
+    Attr Count:5
+      AttrName:"Length0"=0.184376
+      AttrName:"orientation0"=0.575196
+      AttrName:"offset"=-0.678671,-9.39169
+      AttrName:"Length1"=0.202761
+      AttrName:"orientation1"=-71.4418
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.469358,-10.6375
+      AttrName:"orientation"=-179.826
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.513096
+      AttrName:"orientation0"=-179.741
+      AttrName:"offset"=-2.5931,-10.6626
+      AttrName:"Length1"=0.805255
+      AttrName:"orientation1"=-179.278
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.46665
+      AttrName:"orientation0"=-85.2929
+      AttrName:"offset"=-1.49164,-11.4289
+      AttrName:"Length1"=0.603028
+      AttrName:"orientation1"=3.17361
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.659515
+      AttrName:"orientation0"=3.17361
+      AttrName:"offset"=-0.47051,-10.6383
+      AttrName:"Length1"=0.345794
+      AttrName:"orientation1"=96.0185
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+
+  [TB_State]
+  Name:"L2-C6+005.0;+000.9"
+  Frame:375
+  Node Count:14
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.664546,-9.45334
+      AttrName:"orientation"=-79.7017
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.294525
+      AttrName:"orientation0"=89.8779
+      AttrName:"offset"=-1.65585,-9.46038
+      AttrName:"Length1"=0.268351
+      AttrName:"orientation1"=82.5831
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_3"
+    Attr Count:5
+      AttrName:"Length0"=0.233725
+      AttrName:"orientation0"=82.5831
+      AttrName:"offset"=-1.14255,-9.17526
+      AttrName:"Length1"=0.17019
+      AttrName:"orientation1"=0.575196
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.273512
+      AttrName:"orientation0"=-40.5598
+      AttrName:"offset"=0.00357816,-10.3212
+      AttrName:"Length1"=0.265437
+      AttrName:"orientation1"=-91.6197
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.235626
+      AttrName:"orientation0"=-91.6197
+      AttrName:"offset"=-1.69438,-10.3123
+      AttrName:"Length1"=0.12302
+      AttrName:"orientation1"=89.8779
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_4"
+    Attr Count:5
+      AttrName:"Length0"=0.184376
+      AttrName:"orientation0"=0.575196
+      AttrName:"offset"=-0.678671,-9.39169
+      AttrName:"Length1"=0.202761
+      AttrName:"orientation1"=-71.4418
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.469358,-10.6375
+      AttrName:"orientation"=-179.826
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.513096
+      AttrName:"orientation0"=-179.741
+      AttrName:"offset"=-2.5931,-10.6626
+      AttrName:"Length1"=0.805255
+      AttrName:"orientation1"=-179.278
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.46665
+      AttrName:"orientation0"=-85.2929
+      AttrName:"offset"=-1.49164,-11.4289
+      AttrName:"Length1"=0.603028
+      AttrName:"orientation1"=3.17361
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.659515
+      AttrName:"orientation0"=3.17361
+      AttrName:"offset"=-0.47051,-10.6383
+      AttrName:"Length1"=0.345794
+      AttrName:"orientation1"=96.0185
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+
+  [TB_State]
+  Name:"L2-C7+007.0;+000.9"
+  Frame:383
+  Node Count:14
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.666058,-9.43273
+      AttrName:"orientation"=-79.7017
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.298443
+      AttrName:"orientation0"=95.9557
+      AttrName:"offset"=-1.65536,-9.46302
+      AttrName:"Length1"=0.301509
+      AttrName:"orientation1"=81.7889
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_3"
+    Attr Count:5
+      AttrName:"Length0"=0.232865
+      AttrName:"orientation0"=81.7889
+      AttrName:"offset"=-1.14255,-9.17526
+      AttrName:"Length1"=0.17019
+      AttrName:"orientation1"=0.575196
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.270049
+      AttrName:"orientation0"=-58.89
+      AttrName:"offset"=-0.228783,-10.3015
+      AttrName:"Length1"=0.265437
+      AttrName:"orientation1"=-90.8565
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.219561
+      AttrName:"orientation0"=-90.8565
+      AttrName:"offset"=-1.67335,-10.3126
+      AttrName:"Length1"=0.332714
+      AttrName:"orientation1"=95.9557
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_4"
+    Attr Count:5
+      AttrName:"Length0"=0.184376
+      AttrName:"orientation0"=0.575196
+      AttrName:"offset"=-0.678671,-9.39169
+      AttrName:"Length1"=0.202761
+      AttrName:"orientation1"=-71.4418
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.469358,-10.6375
+      AttrName:"orientation"=-179.826
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.513096
+      AttrName:"orientation0"=-179.741
+      AttrName:"offset"=-2.5931,-10.6626
+      AttrName:"Length1"=0.805255
+      AttrName:"orientation1"=-179.278
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.46665
+      AttrName:"orientation0"=-85.2929
+      AttrName:"offset"=-1.49164,-11.4289
+      AttrName:"Length1"=0.603028
+      AttrName:"orientation1"=3.17361
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.659515
+      AttrName:"orientation0"=3.17361
+      AttrName:"offset"=-0.47051,-10.6383
+      AttrName:"Length1"=0.345794
+      AttrName:"orientation1"=96.0185
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+
+  [TB_State]
+  Name:"L3-C0-007.0;+001.0"
+  Frame:328
+  Node Count:14
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.667116,-9.42888
+      AttrName:"orientation"=-79.7017
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.74102
+      AttrName:"orientation0"=138.312
+      AttrName:"offset"=-1.87322,-9.37876
+      AttrName:"Length1"=0.213765
+      AttrName:"orientation1"=9.88452
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_3"
+    Attr Count:5
+      AttrName:"Length0"=0.215995
+      AttrName:"orientation0"=9.88452
+      AttrName:"offset"=-1.04678,-9.04693
+      AttrName:"Length1"=0.179964
+      AttrName:"orientation1"=-30.6719
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.266166
+      AttrName:"orientation0"=-86.7242
+      AttrName:"offset"=-0.654363,-10.2751
+      AttrName:"Length1"=0.200496
+      AttrName:"orientation1"=-93.8783
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.113201
+      AttrName:"orientation0"=-93.8783
+      AttrName:"offset"=-1.4929,-10.2052
+      AttrName:"Length1"=0.261911
+      AttrName:"orientation1"=138.312
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_4"
+    Attr Count:5
+      AttrName:"Length0"=0.197866
+      AttrName:"orientation0"=-30.6719
+      AttrName:"offset"=-0.678671,-9.39169
+      AttrName:"Length1"=0.192802
+      AttrName:"orientation1"=-65.2564
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.466676,-10.4564
+      AttrName:"orientation"=-179.826
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.869622
+      AttrName:"orientation0"=-188.58
+      AttrName:"offset"=-2.10961,-9.50203
+      AttrName:"Length1"=0.474282
+      AttrName:"orientation1"=-170.109
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.256025
+      AttrName:"orientation0"=-141.38
+      AttrName:"offset"=-1.80934,-11.0887
+      AttrName:"Length1"=0.603028
+      AttrName:"orientation1"=3.17361
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.659515
+      AttrName:"orientation0"=3.17361
+      AttrName:"offset"=-0.47051,-10.6383
+      AttrName:"Length1"=0.345794
+      AttrName:"orientation1"=96.0185
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0.0005
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+
+  [TB_State]
+  Name:"L3-C1-005.0;+001.0"
+  Frame:336
+  Node Count:14
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.670287,-9.41731
+      AttrName:"orientation"=-79.7017
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.24951
+      AttrName:"orientation0"=83.1249
+      AttrName:"offset"=-1.62341,-9.18863
+      AttrName:"Length1"=0.221764
+      AttrName:"orientation1"=12.9786
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_3"
+    Attr Count:5
+      AttrName:"Length0"=0.230284
+      AttrName:"orientation0"=12.9786
+      AttrName:"offset"=-1.13217,-9.16353
+      AttrName:"Length1"=0.166717
+      AttrName:"orientation1"=-6.23036
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.261898
+      AttrName:"orientation0"=-89.7327
+      AttrName:"offset"=-0.704803,-10.2626
+      AttrName:"Length1"=0.177058
+      AttrName:"orientation1"=-98.7962
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.105947
+      AttrName:"orientation0"=-98.7962
+      AttrName:"offset"=-2.54943,-9.62844
+      AttrName:"Length1"=0.565019
+      AttrName:"orientation1"=102.502
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_4"
+    Attr Count:5
+      AttrName:"Length0"=0.184376
+      AttrName:"orientation0"=-6.23036
+      AttrName:"offset"=-0.678671,-9.39169
+      AttrName:"Length1"=0.162922
+      AttrName:"orientation1"=-46.7002
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.466676,-10.4564
+      AttrName:"orientation"=-179.826
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.869622
+      AttrName:"orientation0"=-188.58
+      AttrName:"offset"=-2.46498,-9.65237
+      AttrName:"Length1"=0.723966
+      AttrName:"orientation1"=-241.668
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.256025
+      AttrName:"orientation0"=-141.38
+      AttrName:"offset"=-1.80934,-11.0887
+      AttrName:"Length1"=0.603028
+      AttrName:"orientation1"=3.17361
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.659515
+      AttrName:"orientation0"=3.17361
+      AttrName:"offset"=-0.47051,-10.6383
+      AttrName:"Length1"=0.345794
+      AttrName:"orientation1"=96.0185
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole-P"
+    Attr Count:4
+      AttrName:"POSITION"=-0.239347,-0.0435833,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+
+  [TB_State]
+  Name:"L3-C2-003.0;+001.0"
+  Frame:344
+  Node Count:14
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.672508,-9.41742
+      AttrName:"orientation"=-79.7017
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.24951
+      AttrName:"orientation0"=83.1249
+      AttrName:"offset"=-1.62943,-9.26025
+      AttrName:"Length1"=0.221764
+      AttrName:"orientation1"=8.77355
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_3"
+    Attr Count:5
+      AttrName:"Length0"=0.208352
+      AttrName:"orientation0"=8.77355
+      AttrName:"offset"=-1.13217,-9.16353
+      AttrName:"Length1"=0.163482
+      AttrName:"orientation1"=-5.59384
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.267457
+      AttrName:"orientation0"=-87.5409
+      AttrName:"offset"=-0.705086,-10.2876
+      AttrName:"Length1"=0.177774
+      AttrName:"orientation1"=-106.025
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.105947
+      AttrName:"orientation0"=-106.025
+      AttrName:"offset"=-2.49567,-9.71495
+      AttrName:"Length1"=0.516033
+      AttrName:"orientation1"=104.097
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_4"
+    Attr Count:5
+      AttrName:"Length0"=0.184376
+      AttrName:"orientation0"=-5.59384
+      AttrName:"offset"=-0.678671,-9.39169
+      AttrName:"Length1"=0.162922
+      AttrName:"orientation1"=-46.7002
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.468464,-10.5771
+      AttrName:"orientation"=-179.826
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.644237
+      AttrName:"orientation0"=-180.874
+      AttrName:"offset"=-2.55606,-10.2268
+      AttrName:"Length1"=0.778159
+      AttrName:"orientation1"=-200.075
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.396442
+      AttrName:"orientation0"=-103.989
+      AttrName:"offset"=-1.59754,-11.3155
+      AttrName:"Length1"=0.603028
+      AttrName:"orientation1"=3.17361
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.659515
+      AttrName:"orientation0"=3.17361
+      AttrName:"offset"=-0.47051,-10.6383
+      AttrName:"Length1"=0.345794
+      AttrName:"orientation1"=96.0185
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole-P"
+    Attr Count:4
+      AttrName:"POSITION"=-0.0797824,-0.0145278,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,-2.89413
+      AttrName:"SKEW"=4.24074e-15
+
+  [TB_State]
+  Name:"L3-C3-001.0;+001.0"
+  Frame:352
+  Node Count:14
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.673619,-9.41748
+      AttrName:"orientation"=-79.7017
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.28383
+      AttrName:"orientation0"=157.454
+      AttrName:"offset"=-1.89801,-9.6698
+      AttrName:"Length1"=0.337774
+      AttrName:"orientation1"=48.9183
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_3"
+    Attr Count:5
+      AttrName:"Length0"=0.230284
+      AttrName:"orientation0"=48.9183
+      AttrName:"offset"=-1.13764,-9.1553
+      AttrName:"Length1"=0.171302
+      AttrName:"orientation1"=-6.97231
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.2869
+      AttrName:"orientation0"=-88.2362
+      AttrName:"offset"=-0.668893,-10.2959
+      AttrName:"Length1"=0.110711
+      AttrName:"orientation1"=-106.293
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.172925
+      AttrName:"orientation0"=-106.293
+      AttrName:"offset"=-1.39438,-10.3083
+      AttrName:"Length1"=0.198781
+      AttrName:"orientation1"=157.454
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_4"
+    Attr Count:5
+      AttrName:"Length0"=0.184376
+      AttrName:"orientation0"=-6.97231
+      AttrName:"offset"=-0.678671,-9.39169
+      AttrName:"Length1"=0.162922
+      AttrName:"orientation1"=-46.7002
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.469358,-10.6375
+      AttrName:"orientation"=-179.826
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.513096
+      AttrName:"orientation0"=-179.741
+      AttrName:"offset"=-2.5931,-10.6626
+      AttrName:"Length1"=0.805255
+      AttrName:"orientation1"=-179.278
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.46665
+      AttrName:"orientation0"=-85.2929
+      AttrName:"offset"=-1.49164,-11.4289
+      AttrName:"Length1"=0.603028
+      AttrName:"orientation1"=3.17361
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.659515
+      AttrName:"orientation0"=3.17361
+      AttrName:"offset"=-0.47051,-10.6383
+      AttrName:"Length1"=0.345794
+      AttrName:"orientation1"=96.0185
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+
+  [TB_State]
+  Name:"L3-C4+001.0;+001.0"
+  Frame:360
+  Node Count:14
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.359447,-9.79969
+      AttrName:"orientation"=-79.7017
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.324949
+      AttrName:"orientation0"=89.4483
+      AttrName:"offset"=-1.65875,-9.44455
+      AttrName:"Length1"=0.240069
+      AttrName:"orientation1"=80.805
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_3"
+    Attr Count:5
+      AttrName:"Length0"=0.230284
+      AttrName:"orientation0"=80.805
+      AttrName:"offset"=-1.14255,-9.17526
+      AttrName:"Length1"=0.17019
+      AttrName:"orientation1"=21.7951
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.388236
+      AttrName:"orientation0"=-77.051
+      AttrName:"offset"=-0.734626,-10.3439
+      AttrName:"Length1"=0.205376
+      AttrName:"orientation1"=-166.308
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.335896
+      AttrName:"orientation0"=-166.308
+      AttrName:"offset"=-1.72246,-10.2163
+      AttrName:"Length1"=0.207955
+      AttrName:"orientation1"=89.4483
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_4"
+    Attr Count:5
+      AttrName:"Length0"=0.20112
+      AttrName:"orientation0"=21.7951
+      AttrName:"offset"=-0.678671,-9.39169
+      AttrName:"Length1"=0.28822
+      AttrName:"orientation1"=-66.1466
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.469358,-10.6375
+      AttrName:"orientation"=-179.826
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.513096
+      AttrName:"orientation0"=-179.741
+      AttrName:"offset"=-2.5931,-10.6626
+      AttrName:"Length1"=0.805255
+      AttrName:"orientation1"=-179.278
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.46665
+      AttrName:"orientation0"=-85.2929
+      AttrName:"offset"=-1.49164,-11.4289
+      AttrName:"Length1"=0.603028
+      AttrName:"orientation1"=3.17361
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.659515
+      AttrName:"orientation0"=3.17361
+      AttrName:"offset"=-0.47051,-10.6383
+      AttrName:"Length1"=0.345794
+      AttrName:"orientation1"=96.0185
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+
+  [TB_State]
+  Name:"L3-C5+003.0;+001.0"
+  Frame:368
+  Node Count:14
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.0970061,-9.77634
+      AttrName:"orientation"=-79.7017
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.290607
+      AttrName:"orientation0"=89.8416
+      AttrName:"offset"=-1.65633,-9.45774
+      AttrName:"Length1"=0.238502
+      AttrName:"orientation1"=85.2125
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_3"
+    Attr Count:5
+      AttrName:"Length0"=0.234585
+      AttrName:"orientation0"=85.2125
+      AttrName:"offset"=-0.946096,-9.21379
+      AttrName:"Length1"=0.17019
+      AttrName:"orientation1"=-19.9515
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.22511
+      AttrName:"orientation0"=-98.4787
+      AttrName:"offset"=-0.724665,-10.4101
+      AttrName:"Length1"=0.16365
+      AttrName:"orientation1"=-156.726
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.226895
+      AttrName:"orientation0"=-156.726
+      AttrName:"offset"=-1.69629,-10.2515
+      AttrName:"Length1"=0.303286
+      AttrName:"orientation1"=89.8416
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_4"
+    Attr Count:5
+      AttrName:"Length0"=0.252412
+      AttrName:"orientation0"=-19.9515
+      AttrName:"offset"=-0.678671,-9.39169
+      AttrName:"Length1"=0.250118
+      AttrName:"orientation1"=-91.819
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.469358,-10.6375
+      AttrName:"orientation"=-179.826
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.513096
+      AttrName:"orientation0"=-179.741
+      AttrName:"offset"=-2.5931,-10.6626
+      AttrName:"Length1"=0.805255
+      AttrName:"orientation1"=-179.278
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.46665
+      AttrName:"orientation0"=-85.2929
+      AttrName:"offset"=-1.49164,-11.4289
+      AttrName:"Length1"=0.603028
+      AttrName:"orientation1"=3.17361
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.659515
+      AttrName:"orientation0"=3.17361
+      AttrName:"offset"=-0.47051,-10.6383
+      AttrName:"Length1"=0.345794
+      AttrName:"orientation1"=96.0185
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+
+  [TB_State]
+  Name:"L3-C6+005.0;+001.0"
+  Frame:376
+  Node Count:14
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=0.196575,-10.1681
+      AttrName:"orientation"=-79.7017
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.110758
+      AttrName:"orientation0"=154.898
+      AttrName:"offset"=-1.65585,-9.46038
+      AttrName:"Length1"=0.268351
+      AttrName:"orientation1"=82.5831
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_3"
+    Attr Count:5
+      AttrName:"Length0"=0.233725
+      AttrName:"orientation0"=82.5831
+      AttrName:"offset"=-1.12025,-9.24704
+      AttrName:"Length1"=0.184874
+      AttrName:"orientation1"=3.69589
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.446131
+      AttrName:"orientation0"=-70.9622
+      AttrName:"offset"=-0.715033,-10.5251
+      AttrName:"Length1"=0.213575
+      AttrName:"orientation1"=-181.652
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.218978
+      AttrName:"orientation0"=-181.652
+      AttrName:"offset"=-1.60085,-10.4171
+      AttrName:"Length1"=0.308424
+      AttrName:"orientation1"=154.898
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_4"
+    Attr Count:5
+      AttrName:"Length0"=0.275513
+      AttrName:"orientation0"=3.69589
+      AttrName:"offset"=-0.678671,-9.39169
+      AttrName:"Length1"=0.219745
+      AttrName:"orientation1"=-53.0546
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=0.681596,-10.6279
+      AttrName:"orientation"=-179.826
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.592232
+      AttrName:"orientation0"=-168.159
+      AttrName:"offset"=-1.86936,-10.6335
+      AttrName:"Length1"=0.296151
+      AttrName:"orientation1"=-192.448
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.46665
+      AttrName:"orientation0"=-192.448
+      AttrName:"offset"=-1.12894,-11.4136
+      AttrName:"Length1"=0.603028
+      AttrName:"orientation1"=3.17361
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.659515
+      AttrName:"orientation0"=3.17361
+      AttrName:"offset"=-0.47051,-10.6383
+      AttrName:"Length1"=0.345794
+      AttrName:"orientation1"=96.0185
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0.001
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+
+  [TB_State]
+  Name:"L3-C7+007.0;+001.0"
+  Frame:384
+  Node Count:14
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.357797,-9.74762
+      AttrName:"orientation"=-79.7017
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.298443
+      AttrName:"orientation0"=96.9332
+      AttrName:"offset"=-1.65051,-9.52501
+      AttrName:"Length1"=0.301509
+      AttrName:"orientation1"=81.7889
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_3"
+    Attr Count:5
+      AttrName:"Length0"=0.232865
+      AttrName:"orientation0"=81.7889
+      AttrName:"offset"=-0.924514,-9.3908
+      AttrName:"Length1"=0.330093
+      AttrName:"orientation1"=-14.932
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.227638
+      AttrName:"orientation0"=-74.6299
+      AttrName:"offset"=-0.652848,-10.4929
+      AttrName:"Length1"=0.185275
+      AttrName:"orientation1"=-127.313
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.281453
+      AttrName:"orientation0"=-127.313
+      AttrName:"offset"=-1.66177,-10.3428
+      AttrName:"Length1"=0.247537
+      AttrName:"orientation1"=96.9332
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_4"
+    Attr Count:5
+      AttrName:"Length0"=0.194061
+      AttrName:"orientation0"=-14.932
+      AttrName:"offset"=-0.678671,-9.39169
+      AttrName:"Length1"=0.261086
+      AttrName:"orientation1"=-68.7263
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.0568499,-10.1356
+      AttrName:"orientation"=-179.826
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.568881
+      AttrName:"orientation0"=-236.792
+      AttrName:"offset"=-2.15561,-10.6628
+      AttrName:"Length1"=1.09641
+      AttrName:"orientation1"=-142.889
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.46665
+      AttrName:"orientation0"=-85.2929
+      AttrName:"offset"=-1.33516,-11.5455
+      AttrName:"Length1"=0.603028
+      AttrName:"orientation1"=3.17361
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.659515
+      AttrName:"orientation0"=3.17361
+      AttrName:"offset"=-0.47051,-10.6383
+      AttrName:"Length1"=1.21312
+      AttrName:"orientation1"=92.3111
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0.0005
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+
+  [TB_State]
+  Name:"L4-C0-007.0;+004.0"
+  Frame:330
+  Node Count:14
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.667116,-9.42888
+      AttrName:"orientation"=-79.7017
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.524968
+      AttrName:"orientation0"=118.506
+      AttrName:"offset"=-1.46538,-8.33114
+      AttrName:"Length1"=0.238144
+      AttrName:"orientation1"=-28.6729
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_3"
+    Attr Count:5
+      AttrName:"Length0"=0.201706
+      AttrName:"orientation0"=-28.6729
+      AttrName:"offset"=-0.951008,-8.91859
+      AttrName:"Length1"=0.189737
+      AttrName:"orientation1"=-61.9191
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.266166
+      AttrName:"orientation0"=-86.7242
+      AttrName:"offset"=-0.678274,-10.2808
+      AttrName:"Length1"=0.159285
+      AttrName:"orientation1"=-98.4033
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.0713898
+      AttrName:"orientation0"=-98.4033
+      AttrName:"offset"=-1.45842,-10.1458
+      AttrName:"Length1"=0.276503
+      AttrName:"orientation1"=118.506
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_4"
+    Attr Count:5
+      AttrName:"Length0"=0.211356
+      AttrName:"orientation0"=-61.9191
+      AttrName:"offset"=-0.678671,-9.39169
+      AttrName:"Length1"=0.192802
+      AttrName:"orientation1"=-65.2564
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.484107,-10.6354
+      AttrName:"orientation"=-179.826
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.45644
+      AttrName:"orientation0"=-250.223
+      AttrName:"offset"=-1.52937,-8.32679
+      AttrName:"Length1"=0.442183
+      AttrName:"orientation1"=-223.238
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.536187
+      AttrName:"orientation0"=-211.274
+      AttrName:"offset"=-1.57151,-10.838
+      AttrName:"Length1"=0.603028
+      AttrName:"orientation1"=3.17361
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.659515
+      AttrName:"orientation0"=3.17361
+      AttrName:"offset"=-0.47051,-10.6383
+      AttrName:"Length1"=0.345794
+      AttrName:"orientation1"=96.0185
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0.001
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+
+  [TB_State]
+  Name:"L4-C1-005.0;+004.0"
+  Frame:338
+  Node Count:14
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.670287,-9.41731
+      AttrName:"orientation"=-79.7017
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.33045
+      AttrName:"orientation0"=87.239
+      AttrName:"offset"=-1.6004,-8.9289
+      AttrName:"Length1"=0.253784
+      AttrName:"orientation1"=-21.1269
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_3"
+    Attr Count:5
+      AttrName:"Length0"=0.230284
+      AttrName:"orientation0"=-21.1269
+      AttrName:"offset"=-1.1114,-9.14005
+      AttrName:"Length1"=0.159772
+      AttrName:"orientation1"=-19.8415
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.2539
+      AttrName:"orientation0"=-90.8559
+      AttrName:"offset"=-0.788164,-10.2525
+      AttrName:"Length1"=0.190133
+      AttrName:"orientation1"=-112.962
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.105947
+      AttrName:"orientation0"=-112.962
+      AttrName:"offset"=-2.31813,-8.71478
+      AttrName:"Length1"=1.19085
+      AttrName:"orientation1"=87.239
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_4"
+    Attr Count:5
+      AttrName:"Length0"=0.184376
+      AttrName:"orientation0"=-19.8415
+      AttrName:"offset"=-0.678671,-9.39169
+      AttrName:"Length1"=0.162922
+      AttrName:"orientation1"=-46.7002
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.466676,-10.4564
+      AttrName:"orientation"=-179.826
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.906521
+      AttrName:"orientation0"=-183.138
+      AttrName:"offset"=-2.48199,-9.35517
+      AttrName:"Length1"=0.723966
+      AttrName:"orientation1"=-241.668
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.256025
+      AttrName:"orientation0"=-141.38
+      AttrName:"offset"=-1.80934,-11.0887
+      AttrName:"Length1"=0.603028
+      AttrName:"orientation1"=3.17361
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.659515
+      AttrName:"orientation0"=3.17361
+      AttrName:"offset"=-0.47051,-10.6383
+      AttrName:"Length1"=0.345794
+      AttrName:"orientation1"=96.0185
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole-P"
+    Attr Count:4
+      AttrName:"POSITION"=-0.239347,-0.0435833,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,-8.68238
+      AttrName:"SKEW"=1.27222e-14
+
+  [TB_State]
+  Name:"L4-C2-003.0;+004.0"
+  Frame:346
+  Node Count:14
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.670287,-9.41731
+      AttrName:"orientation"=-79.7017
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.33045
+      AttrName:"orientation0"=87.239
+      AttrName:"offset"=-1.5708,-8.89166
+      AttrName:"Length1"=0.253784
+      AttrName:"orientation1"=-33.742
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_3"
+    Attr Count:5
+      AttrName:"Length0"=0.164486
+      AttrName:"orientation0"=-33.742
+      AttrName:"offset"=-1.1114,-9.14005
+      AttrName:"Length1"=0.150066
+      AttrName:"orientation1"=-17.9319
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.2539
+      AttrName:"orientation0"=-90.8559
+      AttrName:"offset"=-0.788164,-10.2525
+      AttrName:"Length1"=0.190133
+      AttrName:"orientation1"=-112.962
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.105947
+      AttrName:"orientation0"=-112.962
+      AttrName:"offset"=-2.40447,-8.56429
+      AttrName:"Length1"=1.19085
+      AttrName:"orientation1"=87.239
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_4"
+    Attr Count:5
+      AttrName:"Length0"=0.184376
+      AttrName:"orientation0"=-17.9319
+      AttrName:"offset"=-0.678671,-9.39169
+      AttrName:"Length1"=0.162922
+      AttrName:"orientation1"=-46.7002
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.466676,-10.4564
+      AttrName:"orientation"=-179.826
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.906521
+      AttrName:"orientation0"=-183.138
+      AttrName:"offset"=-2.48199,-9.35517
+      AttrName:"Length1"=0.723966
+      AttrName:"orientation1"=-241.668
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.256025
+      AttrName:"orientation0"=-141.38
+      AttrName:"offset"=-1.80934,-11.0887
+      AttrName:"Length1"=0.603028
+      AttrName:"orientation1"=3.17361
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.659515
+      AttrName:"orientation0"=3.17361
+      AttrName:"offset"=-0.47051,-10.6383
+      AttrName:"Length1"=0.345794
+      AttrName:"orientation1"=96.0185
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole-P"
+    Attr Count:4
+      AttrName:"POSITION"=-0.239347,-0.0435833,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,-8.68238
+      AttrName:"SKEW"=1.27222e-14
+
+  [TB_State]
+  Name:"L4-C3-001.0;+004.0"
+  Frame:354
+  Node Count:14
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.673619,-9.41748
+      AttrName:"orientation"=-79.7017
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.481899
+      AttrName:"orientation0"=129.953
+      AttrName:"offset"=-1.61946,-9.01936
+      AttrName:"Length1"=0.283153
+      AttrName:"orientation1"=0.922897
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_3"
+    Attr Count:5
+      AttrName:"Length0"=0.230284
+      AttrName:"orientation0"=0.922897
+      AttrName:"offset"=-1.13274,-9.13535
+      AttrName:"Length1"=0.172415
+      AttrName:"orientation1"=-14.5198
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.2869
+      AttrName:"orientation0"=-88.2362
+      AttrName:"offset"=-0.668893,-10.2959
+      AttrName:"Length1"=0.110711
+      AttrName:"orientation1"=-106.293
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.172925
+      AttrName:"orientation0"=-106.293
+      AttrName:"offset"=-1.36231,-10.2633
+      AttrName:"Length1"=0.155879
+      AttrName:"orientation1"=129.953
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_4"
+    Attr Count:5
+      AttrName:"Length0"=0.184376
+      AttrName:"orientation0"=-14.5198
+      AttrName:"offset"=-0.678671,-9.39169
+      AttrName:"Length1"=0.162922
+      AttrName:"orientation1"=-46.7002
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.469358,-10.6375
+      AttrName:"orientation"=-179.826
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.513096
+      AttrName:"orientation0"=-179.741
+      AttrName:"offset"=-2.5931,-10.6626
+      AttrName:"Length1"=0.805255
+      AttrName:"orientation1"=-179.278
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.46665
+      AttrName:"orientation0"=-85.2929
+      AttrName:"offset"=-1.49164,-11.4289
+      AttrName:"Length1"=0.603028
+      AttrName:"orientation1"=3.17361
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.659515
+      AttrName:"orientation0"=3.17361
+      AttrName:"offset"=-0.47051,-10.6383
+      AttrName:"Length1"=0.345794
+      AttrName:"orientation1"=96.0185
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+
+  [TB_State]
+  Name:"L4-C4+001.0;+004.0"
+  Frame:362
+  Node Count:14
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.307869,-9.06794
+      AttrName:"orientation"=-79.7017
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.324949
+      AttrName:"orientation0"=94.8974
+      AttrName:"offset"=-1.65875,-9.44455
+      AttrName:"Length1"=0.240069
+      AttrName:"orientation1"=80.805
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_3"
+    Attr Count:5
+      AttrName:"Length0"=0.230284
+      AttrName:"orientation0"=80.805
+      AttrName:"offset"=-1.14255,-9.17526
+      AttrName:"Length1"=0.17019
+      AttrName:"orientation1"=43.0151
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.388236
+      AttrName:"orientation0"=-77.051
+      AttrName:"offset"=-0.745441,-10.2364
+      AttrName:"Length1"=0.296791
+      AttrName:"orientation1"=-120.464
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.332013
+      AttrName:"orientation0"=-120.464
+      AttrName:"offset"=-1.68595,-10.2063
+      AttrName:"Length1"=0.186194
+      AttrName:"orientation1"=94.8974
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_4"
+    Attr Count:5
+      AttrName:"Length0"=0.217865
+      AttrName:"orientation0"=43.0151
+      AttrName:"offset"=-0.678671,-9.39169
+      AttrName:"Length1"=0.373679
+      AttrName:"orientation1"=-60.8514
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.469358,-10.6375
+      AttrName:"orientation"=-179.826
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.513096
+      AttrName:"orientation0"=-179.741
+      AttrName:"offset"=-2.5931,-10.6626
+      AttrName:"Length1"=0.805255
+      AttrName:"orientation1"=-179.278
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.46665
+      AttrName:"orientation0"=-85.2929
+      AttrName:"offset"=-1.49164,-11.4289
+      AttrName:"Length1"=0.603028
+      AttrName:"orientation1"=3.17361
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.659515
+      AttrName:"orientation0"=3.17361
+      AttrName:"offset"=-0.47051,-10.6383
+      AttrName:"Length1"=0.345794
+      AttrName:"orientation1"=96.0185
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+
+  [TB_State]
+  Name:"L4-C5+003.0;+004.0"
+  Frame:370
+  Node Count:14
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.239563,-9.31205
+      AttrName:"orientation"=-79.7017
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.290607
+      AttrName:"orientation0"=89.8416
+      AttrName:"offset"=-1.65633,-9.45774
+      AttrName:"Length1"=0.24181
+      AttrName:"orientation1"=87.0477
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_3"
+    Attr Count:5
+      AttrName:"Length0"=0.234585
+      AttrName:"orientation0"=87.0477
+      AttrName:"offset"=-0.749643,-9.25231
+      AttrName:"Length1"=0.17019
+      AttrName:"orientation1"=18.4553
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.3384
+      AttrName:"orientation0"=-57.6768
+      AttrName:"offset"=-0.731657,-10.403
+      AttrName:"Length1"=0.349295
+      AttrName:"orientation1"=-132.481
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.25169
+      AttrName:"orientation0"=-132.481
+      AttrName:"offset"=-1.68685,-10.2676
+      AttrName:"Length1"=0.303286
+      AttrName:"orientation1"=89.8416
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_4"
+    Attr Count:5
+      AttrName:"Length0"=0.176732
+      AttrName:"orientation0"=18.4553
+      AttrName:"offset"=-0.678671,-9.39169
+      AttrName:"Length1"=0.225822
+      AttrName:"orientation1"=-64.7503
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.469358,-10.6375
+      AttrName:"orientation"=-179.826
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.513096
+      AttrName:"orientation0"=-179.741
+      AttrName:"offset"=-2.5931,-10.6626
+      AttrName:"Length1"=0.805255
+      AttrName:"orientation1"=-179.278
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.46665
+      AttrName:"orientation0"=-85.2929
+      AttrName:"offset"=-1.49164,-11.4289
+      AttrName:"Length1"=0.603028
+      AttrName:"orientation1"=3.17361
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.659515
+      AttrName:"orientation0"=3.17361
+      AttrName:"offset"=-0.47051,-10.6383
+      AttrName:"Length1"=0.345794
+      AttrName:"orientation1"=96.0185
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+
+  [TB_State]
+  Name:"L4-C6+005.0;+004.0"
+  Frame:378
+  Node Count:14
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=0.140351,-9.36839
+      AttrName:"orientation"=-79.7017
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.110758
+      AttrName:"orientation0"=160.766
+      AttrName:"offset"=-1.65585,-9.46038
+      AttrName:"Length1"=0.268351
+      AttrName:"orientation1"=82.5831
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_3"
+    Attr Count:5
+      AttrName:"Length0"=0.233725
+      AttrName:"orientation0"=82.5831
+      AttrName:"offset"=-1.12025,-9.24704
+      AttrName:"Length1"=0.184874
+      AttrName:"orientation1"=3.69589
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.446131
+      AttrName:"orientation0"=-70.9622
+      AttrName:"offset"=-0.769498,-10.4113
+      AttrName:"Length1"=0.213575
+      AttrName:"orientation1"=-162.952
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.179796
+      AttrName:"orientation0"=-162.952
+      AttrName:"offset"=-1.60085,-10.4171
+      AttrName:"Length1"=0.301544
+      AttrName:"orientation1"=160.766
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_4"
+    Attr Count:5
+      AttrName:"Length0"=0.275513
+      AttrName:"orientation0"=3.69589
+      AttrName:"offset"=-0.678671,-9.39169
+      AttrName:"Length1"=0.219745
+      AttrName:"orientation1"=-53.0546
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=0.443193,-9.34064
+      AttrName:"orientation"=-179.826
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.89701
+      AttrName:"orientation0"=-111.972
+      AttrName:"offset"=-1.84929,-10.5182
+      AttrName:"Length1"=1.05437
+      AttrName:"orientation1"=-197.465
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.46665
+      AttrName:"orientation0"=-197.465
+      AttrName:"offset"=-1.12894,-11.4136
+      AttrName:"Length1"=0.603028
+      AttrName:"orientation1"=3.17361
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.659515
+      AttrName:"orientation0"=3.17361
+      AttrName:"offset"=-0.47051,-10.6383
+      AttrName:"Length1"=1.43631
+      AttrName:"orientation1"=104.667
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0.001
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+
+  [TB_State]
+  Name:"L4-C7+007.0;+004.0"
+  Frame:386
+  Node Count:14
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.383351,-8.91369
+      AttrName:"orientation"=-79.7017
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.298443
+      AttrName:"orientation0"=96.2217
+      AttrName:"offset"=-1.64566,-9.58701
+      AttrName:"Length1"=0.301509
+      AttrName:"orientation1"=81.7889
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_3"
+    Attr Count:5
+      AttrName:"Length0"=0.232865
+      AttrName:"orientation0"=81.7889
+      AttrName:"offset"=-1.17329,-9.03423
+      AttrName:"Length1"=0.25194
+      AttrName:"orientation1"=38.7911
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=0.482813
+      AttrName:"orientation0"=-72.4215
+      AttrName:"offset"=-0.652655,-10.466
+      AttrName:"Length1"=0.283398
+      AttrName:"orientation1"=-110.591
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.219561
+      AttrName:"orientation0"=-110.591
+      AttrName:"offset"=-1.65019,-10.373
+      AttrName:"Length1"=0.35873
+      AttrName:"orientation1"=96.2217
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe/PTO_1/PTO_Curve_4"
+    Attr Count:5
+      AttrName:"Length0"=0.203746
+      AttrName:"orientation0"=38.7911
+      AttrName:"offset"=-0.678671,-9.39169
+      AttrName:"Length1"=0.31941
+      AttrName:"orientation1"=-66.0109
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Offset"
+    Attr Count:2
+      AttrName:"offset"=-0.247964,-9.65595
+      AttrName:"orientation"=-179.826
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve"
+    Attr Count:5
+      AttrName:"Length0"=1.57517
+      AttrName:"orientation0"=-280.572
+      AttrName:"offset"=-1.71813,-10.6629
+      AttrName:"Length1"=1.73484
+      AttrName:"orientation1"=-111.257
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_1"
+    Attr Count:5
+      AttrName:"Length0"=0.46665
+      AttrName:"orientation0"=-85.2929
+      AttrName:"offset"=-1.17869,-11.6622
+      AttrName:"Length1"=0.603028
+      AttrName:"orientation1"=3.17361
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Deformation-Shoe_Sole/PTO_1/PTO_Curve_2"
+    Attr Count:5
+      AttrName:"Length0"=0.659515
+      AttrName:"orientation0"=3.17361
+      AttrName:"offset"=-0.47051,-10.6383
+      AttrName:"Length1"=2.08045
+      AttrName:"orientation1"=88.6036
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole"
+    Attr Count:1
+      AttrName:"DRAWING.ELEMENT"="1"
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0.001
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+    [TB_NodeState]
+    Node:"~/PTO_Leg_Clone/PTO_Shoe_Sole-P"
+    Attr Count:4
+      AttrName:"POSITION"=0,0,0
+      AttrName:"SCALE"=1,1,1
+      AttrName:"ROTATION"=0,0,0
+      AttrName:"SKEW"=0
+
